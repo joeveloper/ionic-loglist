@@ -22,7 +22,6 @@ export class LoginPage {
   }
 
   login() {
-    //API connection
     this.navCtrl.push(TabsPage);
   }
 }
